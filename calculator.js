@@ -1,15 +1,14 @@
 
 
 // TODO: Fix the square root function not displaying
-function calculateSquareRoot(value) {
-    
+function calculateSquareRoot(value) {   
     // return the square root of the value
 }
 
 // TODO: Implement square function
 function calculateSquare(value) {
     // Hint: Use exponentiation
-    // return the square root of the value
+    // return the root of the value
 
 }
 
@@ -17,7 +16,6 @@ function calculateSquare(value) {
 function calculateReciprocal() {
     // Hint: Reciprocal is 1/x
     // return the square root of the value
-    return 1* value;
 
 }
 
@@ -39,6 +37,7 @@ function cosine(value) {
 // TODO: Implement tangent function
 function tangent(value) {
     // return the tangent of the value
+
 }
 
 
