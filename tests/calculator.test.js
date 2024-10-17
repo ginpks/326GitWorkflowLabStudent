@@ -25,3 +25,11 @@ describe('Calculator Calculation Functions', function() {
         assert.strictEqual(cos1, 1);
     });
 });
+describe('Calculator Calculation Functions', function() {
+    //Test Cosine Function
+    const log = calculator.naturalLog(1);
+    //const log2 = calculator.naturalLog(3);
+    it('should return 1', function() {
+        assert.strictEqual(log, 0);
+    });
+});
